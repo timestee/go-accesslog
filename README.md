@@ -1,4 +1,5 @@
-# go-accesslog [![Build Status](https://travis-ci.org/timestee/go-accesslog.svg?branch=master)](https://travis-ci.org/timestee/go-accesslog) [![Go Walker](https://gowalker.org/api/v1/badge)](https://gowalker.org/github.com/timestee/go-accesslog)  [![GoDoc](https://godoc.org/github.com/timestee/go-accesslog?status.svg)](https://godoc.org/github.com/timestee/go-accesslog)
+# go-accesslog 
+[![Build Status](https://travis-ci.org/timestee/go-accesslog.svg?branch=master)](https://travis-ci.org/timestee/go-accesslog) [![Go Walker](https://gowalker.org/api/v1/badge)](https://gowalker.org/github.com/timestee/go-accesslog)  [![GoDoc](https://godoc.org/github.com/timestee/go-accesslog?status.svg)](https://godoc.org/github.com/timestee/go-accesslog)[![Sourcegraph](https://sourcegraph.com/github.com/timestee/go-accesslog/-/badge.svg)](https://sourcegraph.com/github.com/timestee/go-accesslog?badge)
 
 A simple HTTP access logger for golang.
 
